@@ -1,0 +1,9 @@
+﻿  Programming_assignment1.cpp
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(217): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(226): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(256): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(272): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(385): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment1\programming_assignment1\programming_assignment1.cpp(431): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Programming_assignment1.vcxproj -> E:\nimooj\학교\2019-2\기하모델링\Programming_assignment1\Debug\Programming_assignment1.exe
