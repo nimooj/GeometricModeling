@@ -1,0 +1,50 @@
+﻿  ProgrammingAssignment2.cpp
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(142): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(144): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(149): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(279): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(300): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function "void __cdecl pointDrag(void)" (?pointDrag@@YAXXZ)
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+ProgrammingAssignment2.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetAttribLocation
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramInfoLog
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetProgramiv
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewDeleteVertexArrays
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+ProgrammingAssignment2.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+E:\nimooj\학교\2019-2\기하모델링\Programming_assignment2\ProgrammingAssignment2\\lib\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\nimooj\학교\2019-2\기하모델링\Programming_assignment2\ProgrammingAssignment2\\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\nimooj\학교\2019-2\기하모델링\Programming_assignment2\ProgrammingAssignment2\\lib\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\nimooj\학교\2019-2\기하모델링\Programming_assignment2\x64\Debug\ProgrammingAssignment2.exe : fatal error LNK1120: 36 unresolved externals

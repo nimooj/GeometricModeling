@@ -1,3 +1,5 @@
-﻿  pch.cpp
-  ProgrammingAssignment2.cpp
+﻿  ProgrammingAssignment2.cpp
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(249): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(297): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(357): warning C4018: '<': signed/unsigned mismatch
   ProgrammingAssignment2.vcxproj -> E:\nimooj\학교\2019-2\기하모델링\Programming_assignment2\Debug\ProgrammingAssignment2.exe

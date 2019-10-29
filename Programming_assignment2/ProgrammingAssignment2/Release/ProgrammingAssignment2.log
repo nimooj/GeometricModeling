@@ -1,9 +1,9 @@
 ﻿  ProgrammingAssignment2.cpp
-e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(243): warning C4018: '<': signed/unsigned mismatch
-e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(293): warning C4018: '<': signed/unsigned mismatch
-e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(356): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(242): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(292): warning C4018: '<': signed/unsigned mismatch
+e:\nimooj\학교\2019-2\기하모델링\programming_assignment2\programmingassignment2\programmingassignment2.cpp(354): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  2 of 462 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+  0 of 462 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
